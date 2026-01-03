@@ -49,7 +49,7 @@ He implementado y optimizado los siguientes patrones fundamentales, enfocándome
 
 ## 🛰️ Conectividad
 * **GitHub:** [Jinbe03](https://github.com/Jinbe03)
-* **Proyecto Literario:** [El legado de Thanatos]([https://www.wattpad.com/](https://www.wattpad.com/myworks/377302140-star-wars-el-legado-de-thanatos)](https://www.wattpad.com/story/377302140-star-wars-el-legado-de-thanatos))
+* **Proyecto Literario:** [El legado de Thanatos](https://www.wattpad.com/story/377302140-star-wars-el-legado-de-thanatos)
 
 ---
 
